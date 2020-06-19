@@ -39,7 +39,7 @@ You'll get bonus points for:
 
 ## Time Duration
 
-2 days (Please note that the test is due 3pm on Monday)
+3 days (Please note that the test is due 3pm on Monday)
 
 ## NB:
 
