@@ -6,7 +6,7 @@ Create an API that serves the latest scores of fixtures of matches in a “**Moc
   - signup/login
   - manage teams (add, remove, edit, view)
   - create fixtures (add, remove, edit, view)
-- **Users ** who can
+- **Users** who can
   - view teams
   - view fixtures
 
