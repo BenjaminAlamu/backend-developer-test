@@ -1,6 +1,6 @@
 # Software Developer Application Test
 
-Create an API that serves the latest scores of fixtures of matches in a “**Mock Premier League**”
+Create a mini webapp that simulates teams and matches in a “**Mock Premier League**”
 
 - **Admin accounts** which are used to
   - signup/login
